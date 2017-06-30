@@ -1,0 +1,19 @@
+{
+  "name": "ideal-potato",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:alantly/ideal-potato.git",
+    "type": "git"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/tsc"
+  },
+  "author": "Alan <alanly211@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/expect": "^1.20.1",
+    "expect": "^1.20.2",
+    "typescript": "^2.4.1"
+  }
+}
